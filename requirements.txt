@@ -1,0 +1,6 @@
+groq
+pypdf
+pygame
+edge-tts
+fish-audio-sdk
+python-dotenv
